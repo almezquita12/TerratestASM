@@ -1,0 +1,18 @@
+cost_center   = "cos"
+entity        = "en"
+app_name      = "ess"
+product       = "pro"
+cia           = "cia"
+function      = "fun"
+channel       = "chan"
+description   = "des"
+tracking_code = "trc"
+environment   = "env"
+geo_region    = "ew1"
+sequence      = "01"
+
+
+kms_key_arn = "arn:aws:kms:eu-west-1:810526559517:key/3e699e10-8499-41fe-b8fb-203fb4737688"
+recovery_window_in_days = "30"
+is_secret_string = "true"
+secret = "name"
